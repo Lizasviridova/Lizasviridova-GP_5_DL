@@ -14,6 +14,8 @@
 
 2 часть - https://www.kaggle.com/datasets/gustavoachavez/architectural-styles-periods-dataset
 
+результаты логирования 1 - https://drive.google.com/drive/folders/1kD831f19_gQSb8Szm26QbLZzJyvxcFzw
+
 результаты логирования 2 - https://drive.google.com/drive/folders/18NWl9beZ9S0vh65LPkFtgV4POf0nPBzr
 
 # Описание и бизнес задача
