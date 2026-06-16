@@ -16,7 +16,7 @@
 
 результаты логирования 1 - https://drive.google.com/drive/folders/1kD831f19_gQSb8Szm26QbLZzJyvxcFzw
 
-результаты логирования 2 - https://drive.google.com/drive/folders/18NWl9beZ9S0vh65LPkFtgV4POf0nPBzr
+результаты логирования 2 - [https://drive.google.com/drive/folders/18NWl9beZ9S0vh65LPkFtgV4POf0nPBzr](https://drive.google.com/drive/folders/14TDE9UF7fJThMLvZzrGA1ySkVGR43GC_)
 
 # Описание и бизнес задача
 
